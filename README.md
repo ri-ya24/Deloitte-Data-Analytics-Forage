@@ -61,5 +61,6 @@ The dashboard contains:
 ![Sheet 2](sheet2.png)
 
 ## Certificate
+## Certificate
 
-[Deloitte Forage Certificate](deloitte certificate.pdf)
+[View Deloitte Forage Certificate](Deloitte_Forage_Certificate.pdf)
